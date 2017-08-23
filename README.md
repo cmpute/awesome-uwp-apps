@@ -15,6 +15,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [MyerList](https://github.com/JuniperPhoton/MyerListUWP)|[Store](https://www.microsoft.com/store/p/myerlist/9nblggh11k1m)
 - [清华磁贴](https://github.com/lizy14/Tsinghua-UWP)|[Store](https://www.microsoft.com/zh-cn/store/p/%E6%B8%85%E5%8D%8E%E7%A3%81%E8%B4%B4/9nblggh4twv4)
 - [Reddit](https://github.com/QuinnDamerell/Baconit)|[Store](https://www.microsoft.com/store/p/baconit/9wzdncrfj0bc)
+- [SoundByte](https://github.com/DominicMaas/SoundByte)|[Store](https://www.microsoft.com/store/p/soundbyte/9nblggh4xbjg)
 - [Usplash](https://github.com/JuniperPhoton/MyerSplashUWP)|[Store](https://www.microsoft.com/store/p/myersplash/9nblggh4vcsn)
 - [微博](https://github.com/OpenWeen/OpenWeen.UWP)|[Store](https://www.microsoft.com/store/p/openween/9nblggh4qr41)
 - [字符映射表](https://github.com/EdiWang/UWP-CharacterMap)|[Store](https://www.microsoft.com/store/p/character-map-uwp/9wzdncrdxf41)
