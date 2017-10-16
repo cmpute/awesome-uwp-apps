@@ -15,7 +15,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [GestureSign](https://github.com/TransposonY/GestureSign)|[Store](https://www.microsoft.com/store/p/gesturesign/9n45wqvk2qqw)
 - Github
    - [CodeHub](https://github.com/aalok05/CodeHub)|[Store](https://www.microsoft.com/store/p/codehub-a-client-for-github/9nblggh52tbd)
-   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)
+   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/p/gitit/9nblggh40hv7)
 - [KeePass](https://github.com/twsouthwick/KeePassWin)|[Store](https://www.microsoft.com/store/p/keepasswin/9wzdncrd91jm)
 - [MatrixJar](https://github.com/Worldbeater/MatrixJar)|[Store](https://www.microsoft.com/store/p/matrixjar/9nblggh530bd)
 - [MyAnimeList](https://github.com/Drutol/MALClient)|[Store](https://www.microsoft.com/store/p/malclient/9nblggh5f3bl)
