@@ -28,6 +28,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [SoundByte](https://github.com/DominicMaas/SoundByte)|[Store](https://www.microsoft.com/store/apps/9nblggh4xbjg)
 - [Telegram](https://github.com/UnigramDev/Unigram)|[Store](https://www.microsoft.com/store/apps/9n97zckpd60q)
 - [清华磁贴](https://github.com/lizy14/Tsinghua-UWP)|[Store](https://www.microsoft.com/store/apps/9nblggh4twv4)
+- [UnitSocial](https://github.com/RafasTavares/UnitSocial)|[Store](https://www.microsoft.com/store/apps/9nblggh2r8s2)
 - [Usplash](https://github.com/JuniperPhoton/MyerSplashUWP)|[Store](https://www.microsoft.com/store/apps/9nblggh4vcsn)
 - [微博](https://github.com/OpenWeen/OpenWeen.UWP)|[Store](https://www.microsoft.com/store/apps/9nblggh4qr41)
 - [字符映射表](https://github.com/EdiWang/UWP-CharacterMap)|[Store](https://www.microsoft.com/store/apps/9wzdncrdxf41)
