@@ -23,6 +23,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [MyFeed](https://github.com/Worldbeater/myFeed)|[Store](https://www.microsoft.com/store/apps/9nblggh4nw02)
 - [Nicovideo](https://github.com/tor4kichi/Hohoema)|[Store](https://www.microsoft.com/store/apps/9nblggh4rxt6)
 - [Owncloud](https://github.com/owncloud/OwncloudUniversal)|[Store](https://www.microsoft.com/store/apps/9pj6d2hkq1zt)
+- [Pixiv](https://github.com/PixeezPlusProject/PixivUniversal)|[Store](https://www.microsoft.com/store/apps/9pm8k64j71pl)
 - [Reddit](https://github.com/QuinnDamerell/Baconit)|[Store](https://www.microsoft.com/store/apps/9wzdncrfj0bc)
 - [SmokSmog](https://github.com/SmokSmog/smoksmog-windows)|[Store](https://www.microsoft.com/store/apps/9nblggh1cvjw)
 - [SoundByte](https://github.com/DominicMaas/SoundByte)|[Store](https://www.microsoft.com/store/apps/9nblggh4xbjg)
