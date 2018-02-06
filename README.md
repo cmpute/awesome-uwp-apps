@@ -15,7 +15,9 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [GestureSign](https://github.com/TransposonY/GestureSign)|[Store](https://www.microsoft.com/store/apps/9n45wqvk2qqw)
 - Github
    - [CodeHub](https://github.com/aalok05/CodeHub)|[Store](https://www.microsoft.com/store/apps/9nblggh52tbd)
-   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/apps/9nblggh40hv7)
+   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/apps/9nblggh40hv7)
+- [IPTV](https://github.com/cmpute/iTV6)|[Store](https://www.microsoft.com/store/apps/9nblggh529kn)
+- [Lyric-Editor](https://github.com/kljzndx/Lyric-Editor)|[Store](https://www.microsoft.com/store/apps/9mx4frgq4rqs)
 - [KeePass](https://github.com/twsouthwick/KeePassWin)|[Store](https://www.microsoft.com/store/apps/9wzdncrd91jm)
 - [MatrixJar](https://github.com/Worldbeater/MatrixJar)|[Store](https://www.microsoft.com/store/apps/9nblggh530bd)
 - [MyAnimeList](https://github.com/Drutol/MALClient)|[Store](https://www.microsoft.com/store/apps/9nblggh5f3bl)
