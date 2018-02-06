@@ -9,13 +9,15 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 ## Published on Store
 
 - [2048](https://github.com/YouthLin/2048UWP)|[Store](https://www.microsoft.com/store/apps/9nblggh68bb0)
+- [Aurora-Music](https://github.com/pkzxs/Aurora.Music)|[Store](https://www.microsoft.com/store/apps/9nblggh6jvdt)
+- [Aurora-Weather](https://github.com/pkzxs/Aurora-Weather)|[Store](https://www.microsoft.com/store/apps/9nblggh4qmj9)
 - [BreadPlayer](https://github.com/theweavrs/BreadPlayer)|[Store](https://www.microsoft.com/store/apps/9nblggh42srx)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)|[Store](https://www.microsoft.com/store/apps/9nblggh516xp)
 - [Elementary](https://github.com/ultramega/elementary-uwp)|[Store](https://www.microsoft.com/store/apps/9nblggh4lwnb)
 - [GestureSign](https://github.com/TransposonY/GestureSign)|[Store](https://www.microsoft.com/store/apps/9n45wqvk2qqw)
 - Github
    - [CodeHub](https://github.com/aalok05/CodeHub)|[Store](https://www.microsoft.com/store/apps/9nblggh52tbd)
-   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/apps/9nblggh40hv7)
+   - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/apps/9nblggh40hv7)
 - [IPTV](https://github.com/cmpute/iTV6)|[Store](https://www.microsoft.com/store/apps/9nblggh529kn)
 - [Lyric-Editor](https://github.com/kljzndx/Lyric-Editor)|[Store](https://www.microsoft.com/store/apps/9mx4frgq4rqs)
 - [KeePass](https://github.com/twsouthwick/KeePassWin)|[Store](https://www.microsoft.com/store/apps/9wzdncrd91jm)
