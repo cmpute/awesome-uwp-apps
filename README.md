@@ -18,6 +18,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - Github
    - [CodeHub](https://github.com/aalok05/CodeHub)|[Store](https://www.microsoft.com/store/apps/9nblggh52tbd)
    - [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)|[Store](https://www.microsoft.com/store/apps/9nblggh40hv7)
+   - [GithubX](https://github.com/yazdipour/githubx)|[Store](https://www.microsoft.com/store/apps/9P7D7PD6FBCV?ocid=badge)
 - [IPTV](https://github.com/cmpute/iTV6)|[Store](https://www.microsoft.com/store/apps/9nblggh529kn)
 - [Lyric-Editor](https://github.com/kljzndx/Lyric-Editor)|[Store](https://www.microsoft.com/store/apps/9mx4frgq4rqs)
 - [KeePass](https://github.com/twsouthwick/KeePassWin)|[Store](https://www.microsoft.com/store/apps/9wzdncrd91jm)
@@ -28,6 +29,7 @@ Third-party(Unofficial) project will be named after its original source. Multipl
 - [Nicovideo](https://github.com/tor4kichi/Hohoema)|[Store](https://www.microsoft.com/store/apps/9nblggh4rxt6)
 - [Owncloud](https://github.com/owncloud/OwncloudUniversal)|[Store](https://www.microsoft.com/store/apps/9pj6d2hkq1zt)
 - [Pixiv](https://github.com/PixeezPlusProject/PixivUniversal)|[Store](https://www.microsoft.com/store/apps/9pm8k64j71pl)
+- [PocketX](https://github.com/yazdipour/pocketx)|[Store](https://www.microsoft.com/store/apps/9NDT5N34SR2P?ocid=badge)
 - [Reddit](https://github.com/QuinnDamerell/Baconit)|[Store](https://www.microsoft.com/store/apps/9wzdncrfj0bc)
 - [SmokSmog](https://github.com/SmokSmog/smoksmog-windows)|[Store](https://www.microsoft.com/store/apps/9nblggh1cvjw)
 - [SoundByte](https://github.com/DominicMaas/SoundByte)|[Store](https://www.microsoft.com/store/apps/9nblggh4xbjg)
