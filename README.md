@@ -84,3 +84,4 @@ Third-party(Unofficial) project will be named after its original source. Multipl
   - [Shopping](https://github.com/Microsoft/Windows-appsample-shopping)
   - [Traffic Monitor](https://github.com/Microsoft/Windows-appsample-trafficapp)
 - [BuildCast](https://github.com/Microsoft/BuildCast): Example UWP Media Application to show best practices
+- [VanArsdel](https://github.com/Microsoft/vanarsdel)
